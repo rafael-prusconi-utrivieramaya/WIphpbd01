@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'WIphpbd01'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_58AFA4D2C1AC42719DF40940C13ED444 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B9D93457AFF04DA9BF2A36635A0F807C }}
           package: .
